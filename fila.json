@@ -1,45 +1,156 @@
 [
-  {
-    "id": "2026-10-31-teste",
-    "quando": "2026-10-31T03:28:05-03:00",
-    "status": "publicado",
-    "legenda": "Chegamos. Em breve, mais por aqui sobre como o seu negócio aparece antes da primeira visita.\n\n#intelles #googlemeunegocio #seolocal",
-    "imagens": [
-      "2026-10-31-teste/slide-01.jpg"
-    ],
-    "ig_id": "18106377506235986",
-    "publicado_em": "2026-10-31T06:30:09.404Z"
-  },
-  {
-    "id": "2026-10-31-feriado",
-    "quando": "2026-10-31T10:00:00-03:00",
-    "status": "publicado",
-    "legenda": "Hoje, sábado, ainda dá tempo. Quem abre no feriado mas não avisou o Google deixa o cliente na dúvida.\n\nEm quatro passos você ajusta o horário de segunda, que é Finados, e deixa o perfil pronto para os próximos feriados também.\n\nSalve este post.\n\n#googlemeunegocio #negocioslocais #seolocal #feriado #pequenasempresas",
-    "imagens": [
-      "2026-10-31-feriado/slide-01.jpg",
-      "2026-10-31-feriado/slide-02.jpg",
-      "2026-10-31-feriado/slide-03.jpg",
-      "2026-10-31-feriado/slide-04.jpg",
-      "2026-10-31-feriado/slide-05.jpg",
-      "2026-10-31-feriado/slide-06.jpg"
-    ],
-    "ig_id": "18188722348424609",
-    "publicado_em": "2026-10-31T17:23:28.823Z"
-  },
-  {
-    "id": "2026-10-31-feriado-v2",
-    "quando": "2026-10-31T16:20:00-03:00",
-    "status": "publicado",
-    "legenda": "Hoje, sábado, ainda dá tempo. Quem abre no feriado mas não avisou o Google deixa o cliente na dúvida.\n\nEm quatro passos você ajusta o horário de segunda, que é Finados, e deixa o perfil pronto para os próximos feriados também.\n\nSalve este post.\n\n#googlemeunegocio #negocioslocais #seolocal #feriado #pequenasempresas",
-    "imagens": [
-      "2026-10-31-feriado-v2/slide-01.jpg",
-      "2026-10-31-feriado-v2/slide-02.jpg",
-      "2026-10-31-feriado-v2/slide-03.jpg",
-      "2026-10-31-feriado-v2/slide-04.jpg",
-      "2026-10-31-feriado-v2/slide-05.jpg",
-      "2026-10-31-feriado-v2/slide-06.jpg"
-    ],
-    "ig_id": "18118896551000356",
-    "publicado_em": "2026-10-31T19:27:03.980Z"
-  }
+    {
+        "id":  "2026-10-31-teste",
+        "quando":  "2026-10-31T03:28:05-03:00",
+        "status":  "publicado",
+        "legenda":  "Chegamos. Em breve, mais por aqui sobre como o seu negócio aparece antes da primeira visita.\n\n#intelles #googlemeunegocio #seolocal",
+        "imagens":  [
+                        "2026-10-31-teste/slide-01.jpg"
+                    ],
+        "ig_id":  "18106377506235986",
+        "publicado_em":  "2026-10-31T06:30:09.404Z"
+    },
+    {
+        "id":  "2026-10-31-feriado",
+        "quando":  "2026-10-31T10:00:00-03:00",
+        "status":  "publicado",
+        "legenda":  "Hoje, sábado, ainda dá tempo. Quem abre no feriado mas não avisou o Google deixa o cliente na dúvida.\n\nEm quatro passos você ajusta o horário de segunda, que é Finados, e deixa o perfil pronto para os próximos feriados também.\n\nSalve este post.\n\n#googlemeunegocio #negocioslocais #seolocal #feriado #pequenasempresas",
+        "imagens":  [
+                        "2026-10-31-feriado/slide-01.jpg",
+                        "2026-10-31-feriado/slide-02.jpg",
+                        "2026-10-31-feriado/slide-03.jpg",
+                        "2026-10-31-feriado/slide-04.jpg",
+                        "2026-10-31-feriado/slide-05.jpg",
+                        "2026-10-31-feriado/slide-06.jpg"
+                    ],
+        "ig_id":  "18188722348424609",
+        "publicado_em":  "2026-10-31T17:23:28.823Z"
+    },
+    {
+        "id":  "2026-10-31-feriado-v2",
+        "quando":  "2026-10-31T16:20:00-03:00",
+        "status":  "publicado",
+        "legenda":  "Hoje, sábado, ainda dá tempo. Quem abre no feriado mas não avisou o Google deixa o cliente na dúvida.\n\nEm quatro passos você ajusta o horário de segunda, que é Finados, e deixa o perfil pronto para os próximos feriados também.\n\nSalve este post.\n\n#googlemeunegocio #negocioslocais #seolocal #feriado #pequenasempresas",
+        "imagens":  [
+                        "2026-10-31-feriado-v2/slide-01.jpg",
+                        "2026-10-31-feriado-v2/slide-02.jpg",
+                        "2026-10-31-feriado-v2/slide-03.jpg",
+                        "2026-10-31-feriado-v2/slide-04.jpg",
+                        "2026-10-31-feriado-v2/slide-05.jpg",
+                        "2026-10-31-feriado-v2/slide-06.jpg"
+                    ],
+        "ig_id":  "18118896551000356",
+        "publicado_em":  "2026-10-31T19:27:03.980Z"
+    },
+    {
+        "id":  "2026-11-01-manifesto",
+        "quando":  "2026-11-01T10:00:00-03:00",
+        "status":  "agendado",
+        "legenda":  "A primeira impressão do seu negócio muitas vezes acontece na tela de alguém, antes da porta, enquanto você atende outra pessoa.\n\nÉ sobre isso que o @in.telles fala todo dia. Siga para ver como se faz.\n\n#negocioslocais #googlemeunegocio #primeiraimpressao #seolocal",
+        "imagens":  [
+                        "2026-11-01-manifesto/slide-01.jpg",
+                        "2026-11-01-manifesto/slide-02.jpg",
+                        "2026-11-01-manifesto/slide-03.jpg",
+                        "2026-11-01-manifesto/slide-04.jpg",
+                        "2026-11-01-manifesto/slide-05.jpg"
+                    ]
+    },
+    {
+        "id":  "2026-11-02-atributos",
+        "quando":  "2026-11-02T12:00:00-03:00",
+        "status":  "agendado",
+        "legenda":  "Se o cliente tiver que ligar para saber se você aceita Pix, uma parte pode desistir antes.\n\nDê uma olhada nos atributos do seu perfil hoje e marque só o que for verdade. Salve este post e confira.\n\n#googlemeunegocio #negocioslocais #seolocal #atendimento",
+        "imagens":  [
+                        "2026-11-02-atributos/slide-01.jpg",
+                        "2026-11-02-atributos/slide-02.jpg",
+                        "2026-11-02-atributos/slide-03.jpg",
+                        "2026-11-02-atributos/slide-04.jpg",
+                        "2026-11-02-atributos/slide-05.jpg",
+                        "2026-11-02-atributos/slide-06.jpg"
+                    ]
+    },
+    {
+        "id":  "2026-11-03-perfis-falsos",
+        "quando":  "2026-11-03T12:00:00-03:00",
+        "status":  "agendado",
+        "legenda":  "O Google está limpando o mapa. Em 2025, segundo o relatório de segurança do Maps, foram mais de 13 milhões de perfis falsos de empresas removidos.\n\nUm perfil de dono real e atualizado fica mais difícil de confundir com um suspeito. Confira o seu em dois passos e, se quiser ajuda, manda PERFIL no direct. O diagnóstico é gratuito.\n\n#googlemaps #googlemeunegocio #negocioslocais #seolocal #reputacao",
+        "imagens":  [
+                        "2026-11-03-perfis-falsos/slide-01.jpg",
+                        "2026-11-03-perfis-falsos/slide-02.jpg",
+                        "2026-11-03-perfis-falsos/slide-03.jpg",
+                        "2026-11-03-perfis-falsos/slide-04.jpg",
+                        "2026-11-03-perfis-falsos/slide-05.jpg",
+                        "2026-11-03-perfis-falsos/slide-06.jpg",
+                        "2026-11-03-perfis-falsos/slide-07.jpg"
+                    ]
+    },
+    {
+        "id":  "2026-11-04-mito-avaliacao",
+        "quando":  "2026-11-04T12:00:00-03:00",
+        "status":  "agendado",
+        "legenda":  "Chegou uma avaliação ruim e a vontade é apagar. Só que o dono não apaga, só denuncia, e a remoção depende de a avaliação violar uma regra do Google.\n\nO que está na sua mão é a resposta, e ela é lida por quem pesquisa depois. Salve este post para esse dia.\n\n#googlemeunegocio #avaliacoes #negocioslocais #reputacao #seolocal",
+        "imagens":  [
+                        "2026-11-04-mito-avaliacao/slide-01.jpg",
+                        "2026-11-04-mito-avaliacao/slide-02.jpg",
+                        "2026-11-04-mito-avaliacao/slide-03.jpg",
+                        "2026-11-04-mito-avaliacao/slide-04.jpg",
+                        "2026-11-04-mito-avaliacao/slide-05.jpg",
+                        "2026-11-04-mito-avaliacao/slide-06.jpg"
+                    ]
+    },
+    {
+        "id":  "2026-11-05-primeira-foto",
+        "quando":  "2026-11-05T12:00:00-03:00",
+        "status":  "agendado",
+        "legenda":  "Pesquisou o nome da sua empresa? A primeira foto é a vitrine que o cliente vê antes de entrar.\n\nQual é a sua: A, B ou C? Comenta aqui.\n\n#googlemeunegocio #negocioslocais #fotos #seolocal",
+        "imagens":  [
+                        "2026-11-05-primeira-foto/slide-01.jpg",
+                        "2026-11-05-primeira-foto/slide-02.jpg",
+                        "2026-11-05-primeira-foto/slide-03.jpg",
+                        "2026-11-05-primeira-foto/slide-04.jpg",
+                        "2026-11-05-primeira-foto/slide-05.jpg"
+                    ]
+    },
+    {
+        "id":  "2026-11-06-black-friday",
+        "quando":  "2026-11-06T12:00:00-03:00",
+        "status":  "agendado",
+        "legenda":  "A Black Friday é dia 27 de novembro. Dá tempo de deixar o perfil pronto sem correria: fotos, horários e um post de oferta, uma semana para cada.\n\nManda PERFIL no direct e a gente olha o seu. O diagnóstico é gratuito.\n\n#blackfriday #googlemeunegocio #negocioslocais #seolocal #pequenasempresas",
+        "imagens":  [
+                        "2026-11-06-black-friday/slide-01.jpg",
+                        "2026-11-06-black-friday/slide-02.jpg",
+                        "2026-11-06-black-friday/slide-03.jpg",
+                        "2026-11-06-black-friday/slide-04.jpg",
+                        "2026-11-06-black-friday/slide-05.jpg",
+                        "2026-11-06-black-friday/slide-06.jpg"
+                    ]
+    },
+    {
+        "id":  "2026-11-07-historinha",
+        "quando":  "2026-11-07T10:00:00-03:00",
+        "status":  "agendado",
+        "legenda":  "Duas fichas, uma pergunta. Quem respondeu antes ficou com a mesa.\n\nSalve este post para lembrar de conferir o seu perfil.\n\n#googlemeunegocio #negocioslocais #seolocal #restaurantes",
+        "imagens":  [
+                        "2026-11-07-historinha/slide-01.jpg",
+                        "2026-11-07-historinha/slide-02.jpg",
+                        "2026-11-07-historinha/slide-03.jpg",
+                        "2026-11-07-historinha/slide-04.jpg",
+                        "2026-11-07-historinha/slide-05.jpg",
+                        "2026-11-07-historinha/slide-06.jpg"
+                    ]
+    },
+    {
+        "id":  "2026-11-08-roteiro-ficha",
+        "quando":  "2026-11-08T10:00:00-03:00",
+        "status":  "agendado",
+        "legenda":  "Antes de mexer em qualquer perfil, a gente mede tudo do mesmo jeito: nome, categoria e horário, fotos e avaliações. É um roteiro simples que você pode fazer hoje no seu perfil.\n\nSe quiser que a gente faça, manda PERFIL no direct. O diagnóstico é gratuito.\n\n#googlemeunegocio #negocioslocais #seolocal #diagnostico",
+        "imagens":  [
+                        "2026-11-08-roteiro-ficha/slide-01.jpg",
+                        "2026-11-08-roteiro-ficha/slide-02.jpg",
+                        "2026-11-08-roteiro-ficha/slide-03.jpg",
+                        "2026-11-08-roteiro-ficha/slide-04.jpg",
+                        "2026-11-08-roteiro-ficha/slide-05.jpg",
+                        "2026-11-08-roteiro-ficha/slide-06.jpg"
+                    ]
+    }
 ]
