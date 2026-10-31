@@ -1,43 +1,45 @@
 [
-    {
-        "id":  "2026-10-31-teste",
-        "quando":  "2026-10-31T03:28:05-03:00",
-        "status":  "publicado",
-        "legenda":  "Chegamos. Em breve, mais por aqui sobre como o seu negócio aparece antes da primeira visita.\n\n#intelles #googlemeunegocio #seolocal",
-        "imagens":  [
-                        "2026-10-31-teste/slide-01.jpg"
-                    ],
-        "ig_id":  "18106377506235986",
-        "publicado_em":  "2026-10-31T06:30:09.404Z"
-    },
-    {
-        "id":  "2026-10-31-feriado",
-        "quando":  "2026-10-31T10:00:00-03:00",
-        "status":  "publicado",
-        "legenda":  "Hoje, sábado, ainda dá tempo. Quem abre no feriado mas não avisou o Google deixa o cliente na dúvida.\n\nEm quatro passos você ajusta o horário de segunda, que é Finados, e deixa o perfil pronto para os próximos feriados também.\n\nSalve este post.\n\n#googlemeunegocio #negocioslocais #seolocal #feriado #pequenasempresas",
-        "imagens":  [
-                        "2026-10-31-feriado/slide-01.jpg",
-                        "2026-10-31-feriado/slide-02.jpg",
-                        "2026-10-31-feriado/slide-03.jpg",
-                        "2026-10-31-feriado/slide-04.jpg",
-                        "2026-10-31-feriado/slide-05.jpg",
-                        "2026-10-31-feriado/slide-06.jpg"
-                    ],
-        "ig_id":  "18188722348424609",
-        "publicado_em":  "2026-10-31T17:23:28.823Z"
-    },
-    {
-        "id":  "2026-10-31-feriado-v2",
-        "quando":  "2026-10-31T16:20:00-03:00",
-        "status":  "agendado",
-        "legenda":  "Hoje, sábado, ainda dá tempo. Quem abre no feriado mas não avisou o Google deixa o cliente na dúvida.\n\nEm quatro passos você ajusta o horário de segunda, que é Finados, e deixa o perfil pronto para os próximos feriados também.\n\nSalve este post.\n\n#googlemeunegocio #negocioslocais #seolocal #feriado #pequenasempresas",
-        "imagens":  [
-                        "2026-10-31-feriado-v2/slide-01.jpg",
-                        "2026-10-31-feriado-v2/slide-02.jpg",
-                        "2026-10-31-feriado-v2/slide-03.jpg",
-                        "2026-10-31-feriado-v2/slide-04.jpg",
-                        "2026-10-31-feriado-v2/slide-05.jpg",
-                        "2026-10-31-feriado-v2/slide-06.jpg"
-                    ]
-    }
+  {
+    "id": "2026-10-31-teste",
+    "quando": "2026-10-31T03:28:05-03:00",
+    "status": "publicado",
+    "legenda": "Chegamos. Em breve, mais por aqui sobre como o seu negócio aparece antes da primeira visita.\n\n#intelles #googlemeunegocio #seolocal",
+    "imagens": [
+      "2026-10-31-teste/slide-01.jpg"
+    ],
+    "ig_id": "18106377506235986",
+    "publicado_em": "2026-10-31T06:30:09.404Z"
+  },
+  {
+    "id": "2026-10-31-feriado",
+    "quando": "2026-10-31T10:00:00-03:00",
+    "status": "publicado",
+    "legenda": "Hoje, sábado, ainda dá tempo. Quem abre no feriado mas não avisou o Google deixa o cliente na dúvida.\n\nEm quatro passos você ajusta o horário de segunda, que é Finados, e deixa o perfil pronto para os próximos feriados também.\n\nSalve este post.\n\n#googlemeunegocio #negocioslocais #seolocal #feriado #pequenasempresas",
+    "imagens": [
+      "2026-10-31-feriado/slide-01.jpg",
+      "2026-10-31-feriado/slide-02.jpg",
+      "2026-10-31-feriado/slide-03.jpg",
+      "2026-10-31-feriado/slide-04.jpg",
+      "2026-10-31-feriado/slide-05.jpg",
+      "2026-10-31-feriado/slide-06.jpg"
+    ],
+    "ig_id": "18188722348424609",
+    "publicado_em": "2026-10-31T17:23:28.823Z"
+  },
+  {
+    "id": "2026-10-31-feriado-v2",
+    "quando": "2026-10-31T16:20:00-03:00",
+    "status": "publicado",
+    "legenda": "Hoje, sábado, ainda dá tempo. Quem abre no feriado mas não avisou o Google deixa o cliente na dúvida.\n\nEm quatro passos você ajusta o horário de segunda, que é Finados, e deixa o perfil pronto para os próximos feriados também.\n\nSalve este post.\n\n#googlemeunegocio #negocioslocais #seolocal #feriado #pequenasempresas",
+    "imagens": [
+      "2026-10-31-feriado-v2/slide-01.jpg",
+      "2026-10-31-feriado-v2/slide-02.jpg",
+      "2026-10-31-feriado-v2/slide-03.jpg",
+      "2026-10-31-feriado-v2/slide-04.jpg",
+      "2026-10-31-feriado-v2/slide-05.jpg",
+      "2026-10-31-feriado-v2/slide-06.jpg"
+    ],
+    "ig_id": "18118896551000356",
+    "publicado_em": "2026-10-31T19:27:03.980Z"
+  }
 ]
