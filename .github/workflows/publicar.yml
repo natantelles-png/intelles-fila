@@ -16,6 +16,7 @@ jobs:
         env:
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          GRAPH_HOST: https://graph.facebook.com
           BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/main/midia
         run: node publicar.mjs
       - name: Gravar o estado da fila
