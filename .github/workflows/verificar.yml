@@ -10,7 +10,9 @@ jobs:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
         run: |
-          resp=$(curl -s -G "https://graph.instagram.com/v24.0/$IG_USER_ID" --data-urlencode "fields=username,account_type" --data-urlencode "access_token=$IG_TOKEN")
-          echo "$resp" | jq -r 'if .error then "ERRO: " + .error.message else "conta=" + .username + " tipo=" + .account_type end'
-          limite=$(curl -s -G "https://graph.instagram.com/v24.0/$IG_USER_ID/content_publishing_limit" --data-urlencode "fields=quota_usage,config" --data-urlencode "access_token=$IG_TOKEN")
-          echo "$limite" | jq -r 'if .error then "limite: ERRO: " + .error.message else "limite: " + (.data[0] | tostring) end'
+          for host in graph.instagram.com graph.facebook.com; do
+            resp=$(curl -s -G "https://$host/v24.0/$IG_USER_ID" --data-urlencode "fields=username,account_type" --data-urlencode "access_token=$IG_TOKEN")
+            echo "RESULTADO $host: $(echo "$resp" | jq -r 'if .error then "ERRO: " + .error.message else "conta=" + (.username // "?") end')"
+            limite=$(curl -s -G "https://$host/v24.0/$IG_USER_ID/content_publishing_limit" --data-urlencode "fields=quota_usage,config" --data-urlencode "access_token=$IG_TOKEN")
+            echo "RESULTADO $host limite: $(echo "$limite" | jq -c 'if .error then "ERRO: " + .error.message else .data[0] end')"
+          done
