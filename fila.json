@@ -1,11 +1,13 @@
 [
-    {
-        "id":  "2026-10-31-teste",
-        "quando":  "2026-10-31T03:28:05-03:00",
-        "status":  "agendado",
-        "legenda":  "Chegamos. Em breve, mais por aqui sobre como o seu negócio aparece antes da primeira visita.\n\n#intelles #googlemeunegocio #seolocal",
-        "imagens":  [
-                        "2026-10-31-teste/slide-01.jpg"
-                    ]
-    }
+  {
+    "id": "2026-10-31-teste",
+    "quando": "2026-10-31T03:28:05-03:00",
+    "status": "publicado",
+    "legenda": "Chegamos. Em breve, mais por aqui sobre como o seu negócio aparece antes da primeira visita.\n\n#intelles #googlemeunegocio #seolocal",
+    "imagens": [
+      "2026-10-31-teste/slide-01.jpg"
+    ],
+    "ig_id": "18106377506235986",
+    "publicado_em": "2026-10-31T06:30:09.404Z"
+  }
 ]
