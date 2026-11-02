@@ -60,7 +60,7 @@
   {
     "id": "2026-11-02-atributos",
     "quando": "2026-11-02T12:00:00-03:00",
-    "status": "agendado",
+    "status": "publicado",
     "legenda": "Se o cliente tiver que ligar para saber se você aceita Pix, uma parte pode desistir antes.\n\nDê uma olhada nos atributos do seu perfil hoje e marque só o que for verdade. Salve este post e confira.\n\n#googlemeunegocio #negocioslocais #seolocal #atendimento",
     "imagens": [
       "2026-11-02-atributos/slide-01.jpg",
@@ -71,7 +71,9 @@
       "2026-11-02-atributos/slide-06.jpg"
     ],
     "tentativas": 1,
-    "ultimo_erro": "Media ID is not available"
+    "ultimo_erro": "Media ID is not available",
+    "ig_id": "18143766583613003",
+    "publicado_em": "2026-11-02T19:17:20.256Z"
   },
   {
     "id": "2026-11-03-perfis-falsos",
