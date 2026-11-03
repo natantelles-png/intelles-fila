@@ -78,7 +78,7 @@
   {
     "id": "2026-11-03-perfis-falsos",
     "quando": "2026-11-03T12:00:00-03:00",
-    "status": "agendado",
+    "status": "publicado",
     "legenda": "O Google está limpando o mapa. Em 2025, segundo o relatório de segurança do Maps, foram mais de 13 milhões de perfis falsos de empresas removidos.\n\nUm perfil de dono real e atualizado fica mais difícil de confundir com um suspeito. Confira o seu em dois passos e, se quiser ajuda, manda PERFIL no direct. O diagnóstico é gratuito.\n\n#googlemaps #googlemeunegocio #negocioslocais #seolocal #reputacao",
     "imagens": [
       "2026-11-03-perfis-falsos/slide-01.jpg",
@@ -88,7 +88,9 @@
       "2026-11-03-perfis-falsos/slide-05.jpg",
       "2026-11-03-perfis-falsos/slide-06.jpg",
       "2026-11-03-perfis-falsos/slide-07.jpg"
-    ]
+    ],
+    "ig_id": "17899958523394843",
+    "publicado_em": "2026-11-03T15:01:16.888Z"
   },
   {
     "id": "2026-11-04-mito-avaliacao",
