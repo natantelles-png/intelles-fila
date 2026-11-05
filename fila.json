@@ -111,7 +111,7 @@
   {
     "id": "2026-11-05-primeira-foto",
     "quando": "2026-11-05T12:00:00-03:00",
-    "status": "agendado",
+    "status": "publicado",
     "legenda": "Pesquisou o nome da sua empresa? A primeira foto é a vitrine que o cliente vê antes de entrar.\n\nQual é a sua: A, B ou C? Comenta aqui.\n\n#googlemeunegocio #negocioslocais #fotos #seolocal",
     "imagens": [
       "2026-11-05-primeira-foto/slide-01.jpg",
@@ -119,7 +119,9 @@
       "2026-11-05-primeira-foto/slide-03.jpg",
       "2026-11-05-primeira-foto/slide-04.jpg",
       "2026-11-05-primeira-foto/slide-05.jpg"
-    ]
+    ],
+    "ig_id": "17985316116003234",
+    "publicado_em": "2026-11-05T15:02:27.725Z"
   },
   {
     "id": "2026-11-06-black-friday",
