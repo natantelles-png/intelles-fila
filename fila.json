@@ -126,7 +126,7 @@
   {
     "id": "2026-11-06-black-friday",
     "quando": "2026-11-06T12:00:00-03:00",
-    "status": "agendado",
+    "status": "publicado",
     "legenda": "A Black Friday é dia 27 de novembro. Dá tempo de deixar o perfil pronto sem correria: fotos, horários e um post de oferta, uma semana para cada.\n\nManda PERFIL no direct e a gente olha o seu. O diagnóstico é gratuito.\n\n#blackfriday #googlemeunegocio #negocioslocais #seolocal #pequenasempresas",
     "imagens": [
       "2026-11-06-black-friday/slide-01.jpg",
@@ -135,7 +135,9 @@
       "2026-11-06-black-friday/slide-04.jpg",
       "2026-11-06-black-friday/slide-05.jpg",
       "2026-11-06-black-friday/slide-06.jpg"
-    ]
+    ],
+    "ig_id": "18109848335252751",
+    "publicado_em": "2026-11-06T15:01:20.554Z"
   },
   {
     "id": "2026-11-07-historinha",
