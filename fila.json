@@ -142,7 +142,7 @@
   {
     "id": "2026-11-07-historinha",
     "quando": "2026-11-07T10:00:00-03:00",
-    "status": "agendado",
+    "status": "publicado",
     "legenda": "Duas fichas, uma pergunta. Quem respondeu antes ficou com a mesa.\n\nSalve este post para lembrar de conferir o seu perfil.\n\n#googlemeunegocio #negocioslocais #seolocal #restaurantes",
     "imagens": [
       "2026-11-07-historinha/slide-01.jpg",
@@ -151,7 +151,9 @@
       "2026-11-07-historinha/slide-04.jpg",
       "2026-11-07-historinha/slide-05.jpg",
       "2026-11-07-historinha/slide-06.jpg"
-    ]
+    ],
+    "ig_id": "17967863120978869",
+    "publicado_em": "2026-11-07T13:01:50.907Z"
   },
   {
     "id": "2026-11-08-roteiro-ficha",
