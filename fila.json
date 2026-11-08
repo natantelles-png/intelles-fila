@@ -158,7 +158,7 @@
   {
     "id": "2026-11-08-roteiro-ficha",
     "quando": "2026-11-08T10:00:00-03:00",
-    "status": "agendado",
+    "status": "publicado",
     "legenda": "Antes de mexer em qualquer perfil, a gente mede tudo do mesmo jeito: nome, categoria e horário, fotos e avaliações. É um roteiro simples que você pode fazer hoje no seu perfil.\n\nSe quiser que a gente faça, manda PERFIL no direct. O diagnóstico é gratuito.\n\n#googlemeunegocio #negocioslocais #seolocal #diagnostico",
     "imagens": [
       "2026-11-08-roteiro-ficha/slide-01.jpg",
@@ -167,6 +167,8 @@
       "2026-11-08-roteiro-ficha/slide-04.jpg",
       "2026-11-08-roteiro-ficha/slide-05.jpg",
       "2026-11-08-roteiro-ficha/slide-06.jpg"
-    ]
+    ],
+    "ig_id": "18012042305778015",
+    "publicado_em": "2026-11-08T13:03:09.248Z"
   }
 ]
