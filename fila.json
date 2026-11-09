@@ -246,5 +246,22 @@
                         "2026-11-12-responder-avaliacao/slide-09.jpg",
                         "2026-11-12-responder-avaliacao/slide-10.jpg"
                     ]
+    },
+    {
+        "id":  "2026-11-13-case-zillow",
+        "quando":  "2026-11-13T12:00:00-03:00",
+        "status":  "agendado",
+        "legenda":  "A Zillow, plataforma americana de anúncios de imóveis, comparou anúncios com tour 3D e sem tour. Em um comunicado de maio de 2022, disse que os anúncios com tour tiveram 81% mais visualizações e 53% mais salvamentos.\n\nÉ um dado da própria Zillow, e ela não informa o período medido. Em 2021, a mesma empresa tinha citado outro número, 32% mais salvamentos, com dados de 2020. Por isso o carrossel mostra o dado e também o que ele não prova.\n\nNo Brasil, o Viva Real permite filtrar a busca só por imóveis com tour virtual. Isso sugere que, para parte dos compradores, o tour já é critério de escolha.\n\nSalve para consultar depois e mande para uma imobiliária que você conhece.\n\n#imobiliaria #tourvirtual #tour360 #mercadoimobiliario #negociolocal",
+        "imagens":  [
+                        "2026-11-13-case-zillow/slide-01.jpg",
+                        "2026-11-13-case-zillow/slide-02.jpg",
+                        "2026-11-13-case-zillow/slide-03.jpg",
+                        "2026-11-13-case-zillow/slide-04.jpg",
+                        "2026-11-13-case-zillow/slide-05.jpg",
+                        "2026-11-13-case-zillow/slide-06.jpg",
+                        "2026-11-13-case-zillow/slide-07.jpg",
+                        "2026-11-13-case-zillow/slide-08.jpg",
+                        "2026-11-13-case-zillow/slide-09.jpg"
+                    ]
     }
 ]
