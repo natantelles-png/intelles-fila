@@ -192,25 +192,6 @@
         "publicado_em":  "2026-11-09T17:01:26.211Z"
     },
     {
-        "id":  "2026-11-10-avaliacao-injusta",
-        "quando":  "2026-11-10T12:00:00-03:00",
-        "status":  "agendado",
-        "legenda":  "Recebeu uma avaliação que parece injusta? O Google só remove a que viola a política dele. Discordar do cliente, ou achar a nota injusta, não basta.\n\nNeste carrossel, tudo da Central de Ajuda do Google: o que ele remove, o que não remove, como denunciar no seu Perfil da Empresa, quanto tempo leva e como contestar uma vez se negarem. No fim, o que o dono nunca pode fazer.\n\nQuando não dá para remover, a resposta educada ainda é lida pelo próximo cliente que pesquisar.\n\nQual avaliação mais te incomodou? Comente e salve para o dia em que chegar uma.\n\n#avaliacoesgoogle #perfilnogoogle #reputacaoonline #negociolocal #googlemeunegocio",
-        "imagens":  [
-                        "2026-11-10-avaliacao-injusta/slide-01.jpg",
-                        "2026-11-10-avaliacao-injusta/slide-02.jpg",
-                        "2026-11-10-avaliacao-injusta/slide-03.jpg",
-                        "2026-11-10-avaliacao-injusta/slide-04.jpg",
-                        "2026-11-10-avaliacao-injusta/slide-05.jpg",
-                        "2026-11-10-avaliacao-injusta/slide-06.jpg",
-                        "2026-11-10-avaliacao-injusta/slide-07.jpg",
-                        "2026-11-10-avaliacao-injusta/slide-08.jpg",
-                        "2026-11-10-avaliacao-injusta/slide-09.jpg",
-                        "2026-11-10-avaliacao-injusta/slide-10.jpg",
-                        "2026-11-10-avaliacao-injusta/slide-11.jpg"
-                    ]
-    },
-    {
         "id":  "2026-11-11-maps-conversa",
         "quando":  "2026-11-11T12:00:00-03:00",
         "status":  "agendado",
@@ -227,6 +208,25 @@
                         "2026-11-11-maps-conversa/slide-09.jpg",
                         "2026-11-11-maps-conversa/slide-10.jpg",
                         "2026-11-11-maps-conversa/slide-11.jpg"
+                    ]
+    },
+    {
+        "id":  "2026-11-10-avaliacao-injusta",
+        "quando":  "2026-11-10T12:00:00-03:00",
+        "status":  "agendado",
+        "legenda":  "Recebeu uma avaliação que parece injusta? O Google só remove a que viola a política dele. Discordar do cliente, ou achar a nota injusta, não basta.\n\nNeste carrossel, tudo da Central de Ajuda do Google: o que ele remove, o que não remove, como denunciar no seu Perfil da Empresa, quanto tempo leva e como contestar uma vez se negarem. No fim, o que o dono nunca pode fazer.\n\nQuando não dá para remover, a resposta educada ainda é lida pelo próximo cliente que pesquisar.\n\nQual avaliação mais te incomodou? Comente e salve para o dia em que chegar uma.\n\n#avaliacoesgoogle #perfilnogoogle #reputacaoonline #negociolocal #googlemeunegocio",
+        "imagens":  [
+                        "2026-11-10-avaliacao-injusta/slide-01.jpg",
+                        "2026-11-10-avaliacao-injusta/slide-02.jpg",
+                        "2026-11-10-avaliacao-injusta/slide-03.jpg",
+                        "2026-11-10-avaliacao-injusta/slide-04.jpg",
+                        "2026-11-10-avaliacao-injusta/slide-05.jpg",
+                        "2026-11-10-avaliacao-injusta/slide-06.jpg",
+                        "2026-11-10-avaliacao-injusta/slide-07.jpg",
+                        "2026-11-10-avaliacao-injusta/slide-08.jpg",
+                        "2026-11-10-avaliacao-injusta/slide-09.jpg",
+                        "2026-11-10-avaliacao-injusta/slide-10.jpg",
+                        "2026-11-10-avaliacao-injusta/slide-11.jpg"
                     ]
     }
 ]
