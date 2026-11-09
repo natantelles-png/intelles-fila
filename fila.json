@@ -228,5 +228,23 @@
                         "2026-11-10-avaliacao-injusta/slide-10.jpg",
                         "2026-11-10-avaliacao-injusta/slide-11.jpg"
                     ]
+    },
+    {
+        "id":  "2026-11-12-responder-avaliacao",
+        "quando":  "2026-11-12T12:00:00-03:00",
+        "status":  "agendado",
+        "legenda":  "Quem lê a sua resposta a uma avaliação não é quem reclamou. É o próximo cliente que está decidindo se entra.\n\nPesquisas da BrightLocal nos EUA, em 2026: 89% dos consumidores esperam que o dono responda, e só 51% dos donos respondem. Um estudo de dois pesquisadores com hotéis no TripAdvisor viu que quem passou a responder ganhou, em média, 12% mais avaliações e 0,12 estrela de nota. Os autores atribuem isso a menos críticas infundadas, não a um serviço melhor.\n\nNo carrossel: os dados, o que o Google diz que você não precisa fazer (agradecer a todos, oferecer algo) e um quiz com três respostas, só uma boa.\n\nSalve e responda hoje a última avaliação que você recebeu. Comente \"responder\" quando fizer.\n\n#avaliacoesgoogle #perfilnogoogle #reputacaoonline #negociolocal #googlemeunegocio",
+        "imagens":  [
+                        "2026-11-12-responder-avaliacao/slide-01.jpg",
+                        "2026-11-12-responder-avaliacao/slide-02.jpg",
+                        "2026-11-12-responder-avaliacao/slide-03.jpg",
+                        "2026-11-12-responder-avaliacao/slide-04.jpg",
+                        "2026-11-12-responder-avaliacao/slide-05.jpg",
+                        "2026-11-12-responder-avaliacao/slide-06.jpg",
+                        "2026-11-12-responder-avaliacao/slide-07.jpg",
+                        "2026-11-12-responder-avaliacao/slide-08.jpg",
+                        "2026-11-12-responder-avaliacao/slide-09.jpg",
+                        "2026-11-12-responder-avaliacao/slide-10.jpg"
+                    ]
     }
 ]
