@@ -209,5 +209,24 @@
                         "2026-11-10-avaliacao-injusta/slide-10.jpg",
                         "2026-11-10-avaliacao-injusta/slide-11.jpg"
                     ]
+    },
+    {
+        "id":  "2026-11-11-maps-conversa",
+        "quando":  "2026-11-11T12:00:00-03:00",
+        "status":  "agendado",
+        "legenda":  "O Google Maps agora conversa com o cliente. O Pergunte ao Maps, que usa o Gemini, foi anunciado no Brasil em junho de 2026 e está sendo liberado aos poucos.\n\nEm vez de digitar \"restaurante perto\", o cliente pergunta: \"qual tem ambiente tranquilo para uma reunião?\". O Google diz que consulta uma base com mais de 300 milhões de lugares, com avaliações e fotos de colaboradores.\n\nO que o Google não explicou é como escolhe quais negócios aparecem. O que ele diz, na ajuda oficial, é que a busca local pesa relevância, distância e destaque, e que não dá para pagar por uma posição melhor.\n\nNo carrossel: o que é, de onde vem a resposta, o dado dos EUA e o que conferir hoje no seu perfil.\n\nAbra o Pergunte ao Maps, pergunte por um negócio como o seu e comente o que apareceu.\n\n#googlemaps #perfilnogoogle #negociolocal #inteligenciaartificial #buscalocal",
+        "imagens":  [
+                        "2026-11-11-maps-conversa/slide-01.jpg",
+                        "2026-11-11-maps-conversa/slide-02.jpg",
+                        "2026-11-11-maps-conversa/slide-03.jpg",
+                        "2026-11-11-maps-conversa/slide-04.jpg",
+                        "2026-11-11-maps-conversa/slide-05.jpg",
+                        "2026-11-11-maps-conversa/slide-06.jpg",
+                        "2026-11-11-maps-conversa/slide-07.jpg",
+                        "2026-11-11-maps-conversa/slide-08.jpg",
+                        "2026-11-11-maps-conversa/slide-09.jpg",
+                        "2026-11-11-maps-conversa/slide-10.jpg",
+                        "2026-11-11-maps-conversa/slide-11.jpg"
+                    ]
     }
 ]
