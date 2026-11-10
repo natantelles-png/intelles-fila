@@ -284,5 +284,23 @@
                         "2026-11-14-regras-perfil/slide-10.jpg",
                         "2026-11-14-regras-perfil/slide-11.jpg"
                     ]
+    },
+    {
+        "id":  "2026-11-15-horario-especial",
+        "quando":  "2026-11-15T10:00:00-03:00",
+        "status":  "agendado",
+        "legenda":  "Feriado chegando e o seu perfil no Google ainda mostra o horário de um dia comum? O cliente pesquisa antes de sair, e horário errado vira porta fechada.\n\nNeste carrossel, o que a ajuda oficial do Google diz sobre horário especial: até 6 dias seguidos, no máximo 24 horas por conjunto, o dia só aparece se for marcado como \"Aberto com horário normal\", e 7 dias ou mais viram \"temporariamente fechado\".\n\nDatas para conferir: 20/11 (Consciência Negra) e 27/11 (Black Friday).\n\nSalve para configurar hoje e mande para quem tem comércio.\n\n#googlemeunegocio #perfilnogoogle #negociolocal #seolocal #feriado",
+        "imagens":  [
+                        "2026-11-15-horario-especial/slide-01.jpg",
+                        "2026-11-15-horario-especial/slide-02.jpg",
+                        "2026-11-15-horario-especial/slide-03.jpg",
+                        "2026-11-15-horario-especial/slide-04.jpg",
+                        "2026-11-15-horario-especial/slide-05.jpg",
+                        "2026-11-15-horario-especial/slide-06.jpg",
+                        "2026-11-15-horario-especial/slide-07.jpg",
+                        "2026-11-15-horario-especial/slide-08.jpg",
+                        "2026-11-15-horario-especial/slide-09.jpg",
+                        "2026-11-15-horario-especial/slide-10.jpg"
+                    ]
     }
 ]
