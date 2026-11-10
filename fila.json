@@ -302,5 +302,23 @@
                         "2026-11-15-horario-especial/slide-09.jpg",
                         "2026-11-15-horario-especial/slide-10.jpg"
                     ]
+    },
+    {
+        "id":  "2026-11-16-black-friday",
+        "quando":  "2026-11-16T12:00:00-03:00",
+        "status":  "agendado",
+        "legenda":  "Foto nova no perfil do Google pode levar de 24 a 48 horas para aparecer, segundo a ajuda oficial. A Black Friday é dia 27/11.\n\nPesquisa do Google com a Offerwise, divulgada pelo Propmark e pelo Meio \u0026 Mensagem, mostra que 44% dos consumidores já tinham pesquisado preços e 48% tinham lista de compras. A disputa começa antes do dia.\n\nNeste carrossel: formato e tamanho das fotos, limite do vídeo, o que não pode entrar no nome e na descrição, e um checklist para fechar até 25/11.\n\nSalve e comente qual item você ainda não fez.\n\n#blackfriday #googlemeunegocio #perfilnogoogle #negociolocal #seolocal",
+        "imagens":  [
+                        "2026-11-16-black-friday/slide-01.jpg",
+                        "2026-11-16-black-friday/slide-02.jpg",
+                        "2026-11-16-black-friday/slide-03.jpg",
+                        "2026-11-16-black-friday/slide-04.jpg",
+                        "2026-11-16-black-friday/slide-05.jpg",
+                        "2026-11-16-black-friday/slide-06.jpg",
+                        "2026-11-16-black-friday/slide-07.jpg",
+                        "2026-11-16-black-friday/slide-08.jpg",
+                        "2026-11-16-black-friday/slide-09.jpg",
+                        "2026-11-16-black-friday/slide-10.jpg"
+                    ]
     }
 ]
