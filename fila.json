@@ -1,348 +1,368 @@
 [
-  {
-    "id": "2026-10-31-teste",
-    "quando": "2026-10-31T03:28:05-03:00",
-    "status": "publicado",
-    "legenda": "Chegamos. Em breve, mais por aqui sobre como o seu negócio aparece antes da primeira visita.\n\n#intelles #googlemeunegocio #seolocal",
-    "imagens": [
-      "2026-10-31-teste/slide-01.jpg"
-    ],
-    "ig_id": "18106377506235986",
-    "publicado_em": "2026-10-31T06:30:09.404Z"
-  },
-  {
-    "id": "2026-10-31-feriado",
-    "quando": "2026-10-31T10:00:00-03:00",
-    "status": "publicado",
-    "legenda": "Hoje, sábado, ainda dá tempo. Quem abre no feriado mas não avisou o Google deixa o cliente na dúvida.\n\nEm quatro passos você ajusta o horário de segunda, que é Finados, e deixa o perfil pronto para os próximos feriados também.\n\nSalve este post.\n\n#googlemeunegocio #negocioslocais #seolocal #feriado #pequenasempresas",
-    "imagens": [
-      "2026-10-31-feriado/slide-01.jpg",
-      "2026-10-31-feriado/slide-02.jpg",
-      "2026-10-31-feriado/slide-03.jpg",
-      "2026-10-31-feriado/slide-04.jpg",
-      "2026-10-31-feriado/slide-05.jpg",
-      "2026-10-31-feriado/slide-06.jpg"
-    ],
-    "ig_id": "18188722348424609",
-    "publicado_em": "2026-10-31T17:23:28.823Z"
-  },
-  {
-    "id": "2026-10-31-feriado-v2",
-    "quando": "2026-10-31T16:20:00-03:00",
-    "status": "publicado",
-    "legenda": "Hoje, sábado, ainda dá tempo. Quem abre no feriado mas não avisou o Google deixa o cliente na dúvida.\n\nEm quatro passos você ajusta o horário de segunda, que é Finados, e deixa o perfil pronto para os próximos feriados também.\n\nSalve este post.\n\n#googlemeunegocio #negocioslocais #seolocal #feriado #pequenasempresas",
-    "imagens": [
-      "2026-10-31-feriado-v2/slide-01.jpg",
-      "2026-10-31-feriado-v2/slide-02.jpg",
-      "2026-10-31-feriado-v2/slide-03.jpg",
-      "2026-10-31-feriado-v2/slide-04.jpg",
-      "2026-10-31-feriado-v2/slide-05.jpg",
-      "2026-10-31-feriado-v2/slide-06.jpg"
-    ],
-    "ig_id": "18118896551000356",
-    "publicado_em": "2026-10-31T19:27:03.980Z"
-  },
-  {
-    "id": "2026-11-01-manifesto",
-    "quando": "2026-11-01T10:00:00-03:00",
-    "status": "publicado",
-    "legenda": "A primeira impressão do seu negócio muitas vezes acontece na tela de alguém, antes da porta, enquanto você atende outra pessoa.\n\nÉ sobre isso que o @in.telles fala todo dia. Siga para ver como se faz.\n\n#negocioslocais #googlemeunegocio #primeiraimpressao #seolocal",
-    "imagens": [
-      "2026-11-01-manifesto/slide-01.jpg",
-      "2026-11-01-manifesto/slide-02.jpg",
-      "2026-11-01-manifesto/slide-03.jpg",
-      "2026-11-01-manifesto/slide-04.jpg",
-      "2026-11-01-manifesto/slide-05.jpg"
-    ],
-    "ig_id": "17906915139355797",
-    "publicado_em": "2026-11-01T13:14:26.298Z"
-  },
-  {
-    "id": "2026-11-02-atributos",
-    "quando": "2026-11-02T12:00:00-03:00",
-    "status": "publicado",
-    "legenda": "Se o cliente tiver que ligar para saber se você aceita Pix, uma parte pode desistir antes.\n\nDê uma olhada nos atributos do seu perfil hoje e marque só o que for verdade. Salve este post e confira.\n\n#googlemeunegocio #negocioslocais #seolocal #atendimento",
-    "imagens": [
-      "2026-11-02-atributos/slide-01.jpg",
-      "2026-11-02-atributos/slide-02.jpg",
-      "2026-11-02-atributos/slide-03.jpg",
-      "2026-11-02-atributos/slide-04.jpg",
-      "2026-11-02-atributos/slide-05.jpg",
-      "2026-11-02-atributos/slide-06.jpg"
-    ],
-    "tentativas": 1,
-    "ultimo_erro": "Media ID is not available",
-    "ig_id": "18143766583613003",
-    "publicado_em": "2026-11-02T19:17:20.256Z"
-  },
-  {
-    "id": "2026-11-03-perfis-falsos",
-    "quando": "2026-11-03T12:00:00-03:00",
-    "status": "publicado",
-    "legenda": "O Google está limpando o mapa. Em 2025, segundo o relatório de segurança do Maps, foram mais de 13 milhões de perfis falsos de empresas removidos.\n\nUm perfil de dono real e atualizado fica mais difícil de confundir com um suspeito. Confira o seu em dois passos e, se quiser ajuda, manda PERFIL no direct. O diagnóstico é gratuito.\n\n#googlemaps #googlemeunegocio #negocioslocais #seolocal #reputacao",
-    "imagens": [
-      "2026-11-03-perfis-falsos/slide-01.jpg",
-      "2026-11-03-perfis-falsos/slide-02.jpg",
-      "2026-11-03-perfis-falsos/slide-03.jpg",
-      "2026-11-03-perfis-falsos/slide-04.jpg",
-      "2026-11-03-perfis-falsos/slide-05.jpg",
-      "2026-11-03-perfis-falsos/slide-06.jpg",
-      "2026-11-03-perfis-falsos/slide-07.jpg"
-    ],
-    "ig_id": "17899958523394843",
-    "publicado_em": "2026-11-03T15:01:16.888Z"
-  },
-  {
-    "id": "2026-11-04-mito-avaliacao",
-    "quando": "2026-11-04T12:00:00-03:00",
-    "status": "publicado",
-    "legenda": "Chegou uma avaliação ruim e a vontade é apagar. Só que o dono não apaga, só denuncia, e a remoção depende de a avaliação violar uma regra do Google.\n\nO que está na sua mão é a resposta, e ela é lida por quem pesquisa depois. Salve este post para esse dia.\n\n#googlemeunegocio #avaliacoes #negocioslocais #reputacao #seolocal",
-    "imagens": [
-      "2026-11-04-mito-avaliacao/slide-01.jpg",
-      "2026-11-04-mito-avaliacao/slide-02.jpg",
-      "2026-11-04-mito-avaliacao/slide-03.jpg",
-      "2026-11-04-mito-avaliacao/slide-04.jpg",
-      "2026-11-04-mito-avaliacao/slide-05.jpg",
-      "2026-11-04-mito-avaliacao/slide-06.jpg"
-    ],
-    "ig_id": "18127844885485764",
-    "publicado_em": "2026-11-04T15:01:57.783Z"
-  },
-  {
-    "id": "2026-11-05-primeira-foto",
-    "quando": "2026-11-05T12:00:00-03:00",
-    "status": "publicado",
-    "legenda": "Pesquisou o nome da sua empresa? A primeira foto é a vitrine que o cliente vê antes de entrar.\n\nQual é a sua: A, B ou C? Comenta aqui.\n\n#googlemeunegocio #negocioslocais #fotos #seolocal",
-    "imagens": [
-      "2026-11-05-primeira-foto/slide-01.jpg",
-      "2026-11-05-primeira-foto/slide-02.jpg",
-      "2026-11-05-primeira-foto/slide-03.jpg",
-      "2026-11-05-primeira-foto/slide-04.jpg",
-      "2026-11-05-primeira-foto/slide-05.jpg"
-    ],
-    "ig_id": "17985316116003234",
-    "publicado_em": "2026-11-05T15:02:27.725Z"
-  },
-  {
-    "id": "2026-11-06-black-friday",
-    "quando": "2026-11-06T12:00:00-03:00",
-    "status": "publicado",
-    "legenda": "A Black Friday é dia 27 de novembro. Dá tempo de deixar o perfil pronto sem correria: fotos, horários e um post de oferta, uma semana para cada.\n\nManda PERFIL no direct e a gente olha o seu. O diagnóstico é gratuito.\n\n#blackfriday #googlemeunegocio #negocioslocais #seolocal #pequenasempresas",
-    "imagens": [
-      "2026-11-06-black-friday/slide-01.jpg",
-      "2026-11-06-black-friday/slide-02.jpg",
-      "2026-11-06-black-friday/slide-03.jpg",
-      "2026-11-06-black-friday/slide-04.jpg",
-      "2026-11-06-black-friday/slide-05.jpg",
-      "2026-11-06-black-friday/slide-06.jpg"
-    ],
-    "ig_id": "18109848335252751",
-    "publicado_em": "2026-11-06T15:01:20.554Z"
-  },
-  {
-    "id": "2026-11-07-historinha",
-    "quando": "2026-11-07T10:00:00-03:00",
-    "status": "publicado",
-    "legenda": "Duas fichas, uma pergunta. Quem respondeu antes ficou com a mesa.\n\nSalve este post para lembrar de conferir o seu perfil.\n\n#googlemeunegocio #negocioslocais #seolocal #restaurantes",
-    "imagens": [
-      "2026-11-07-historinha/slide-01.jpg",
-      "2026-11-07-historinha/slide-02.jpg",
-      "2026-11-07-historinha/slide-03.jpg",
-      "2026-11-07-historinha/slide-04.jpg",
-      "2026-11-07-historinha/slide-05.jpg",
-      "2026-11-07-historinha/slide-06.jpg"
-    ],
-    "ig_id": "17967863120978869",
-    "publicado_em": "2026-11-07T13:01:50.907Z"
-  },
-  {
-    "id": "2026-11-08-roteiro-ficha",
-    "quando": "2026-11-08T10:00:00-03:00",
-    "status": "publicado",
-    "legenda": "Antes de mexer em qualquer perfil, a gente mede tudo do mesmo jeito: nome, categoria e horário, fotos e avaliações. É um roteiro simples que você pode fazer hoje no seu perfil.\n\nSe quiser que a gente faça, manda PERFIL no direct. O diagnóstico é gratuito.\n\n#googlemeunegocio #negocioslocais #seolocal #diagnostico",
-    "imagens": [
-      "2026-11-08-roteiro-ficha/slide-01.jpg",
-      "2026-11-08-roteiro-ficha/slide-02.jpg",
-      "2026-11-08-roteiro-ficha/slide-03.jpg",
-      "2026-11-08-roteiro-ficha/slide-04.jpg",
-      "2026-11-08-roteiro-ficha/slide-05.jpg",
-      "2026-11-08-roteiro-ficha/slide-06.jpg"
-    ],
-    "ig_id": "18012042305778015",
-    "publicado_em": "2026-11-08T13:03:09.248Z"
-  },
-  {
-    "id": "2026-11-09-case-dominos",
-    "quando": "2026-11-09T13:48:49-03:00",
-    "status": "publicado",
-    "legenda": "Em 2009, a Domino's ouviu que a massa parecia papelão. Em vez de esconder, mostrou a crítica, refez a receita e contou o que mudou.\n\nNo 1º trimestre de 2010, as vendas nas mesmas lojas dos EUA subiram 14,3%, segundo o release de resultados da própria empresa. A Domino's atribuiu o resultado à pizza melhor e à honestidade em como contou isso aos consumidores.\n\nA lição para o seu negócio é pequena e serve hoje: cada avaliação negativa mostra o que o cliente repete. Mude uma coisa e responda dizendo o que mudou.\n\nQual crítica se repete no seu negócio? Comente aqui e salve para voltar depois.\n\n#reputacaoonline #avaliacoesgoogle #perfilnogoogle #negociolocal #marketingdigital",
-    "imagens": [
-      "2026-11-09-case-dominos/slide-01.jpg",
-      "2026-11-09-case-dominos/slide-02.jpg",
-      "2026-11-09-case-dominos/slide-03.jpg",
-      "2026-11-09-case-dominos/slide-04.jpg",
-      "2026-11-09-case-dominos/slide-05.jpg",
-      "2026-11-09-case-dominos/slide-06.jpg",
-      "2026-11-09-case-dominos/slide-07.jpg",
-      "2026-11-09-case-dominos/slide-08.jpg",
-      "2026-11-09-case-dominos/slide-09.jpg",
-      "2026-11-09-case-dominos/slide-10.jpg"
-    ],
-    "ig_id": "18133171637492604",
-    "publicado_em": "2026-11-09T17:01:26.211Z"
-  },
-  {
-    "id": "2026-11-11-maps-conversa",
-    "quando": "2026-11-11T12:00:00-03:00",
-    "status": "publicado",
-    "legenda": "O Google Maps agora conversa com o cliente. O Pergunte ao Maps, que usa o Gemini, foi anunciado no Brasil em junho de 2026 e está sendo liberado aos poucos.\n\nEm vez de digitar \"restaurante perto\", o cliente pergunta: \"qual tem ambiente tranquilo para uma reunião?\". O Google diz que consulta uma base com mais de 300 milhões de lugares, com avaliações e fotos de colaboradores.\n\nO que o Google não explicou é como escolhe quais negócios aparecem. O que ele diz, na ajuda oficial, é que a busca local pesa relevância, distância e destaque, e que não dá para pagar por uma posição melhor.\n\nNo carrossel: o que é, de onde vem a resposta, o dado dos EUA e o que conferir hoje no seu perfil.\n\nAbra o Pergunte ao Maps, pergunte por um negócio como o seu e comente o que apareceu.\n\n#googlemaps #perfilnogoogle #negociolocal #inteligenciaartificial #buscalocal",
-    "imagens": [
-      "2026-11-11-maps-conversa/slide-01.jpg",
-      "2026-11-11-maps-conversa/slide-02.jpg",
-      "2026-11-11-maps-conversa/slide-03.jpg",
-      "2026-11-11-maps-conversa/slide-04.jpg",
-      "2026-11-11-maps-conversa/slide-05.jpg",
-      "2026-11-11-maps-conversa/slide-06.jpg",
-      "2026-11-11-maps-conversa/slide-07.jpg",
-      "2026-11-11-maps-conversa/slide-08.jpg",
-      "2026-11-11-maps-conversa/slide-09.jpg",
-      "2026-11-11-maps-conversa/slide-10.jpg",
-      "2026-11-11-maps-conversa/slide-11.jpg"
-    ],
-    "ig_id": "17961739821016802",
-    "publicado_em": "2026-11-11T15:01:38.664Z"
-  },
-  {
-    "id": "2026-11-10-avaliacao-injusta",
-    "quando": "2026-11-10T12:00:00-03:00",
-    "status": "publicado",
-    "legenda": "Recebeu uma avaliação que parece injusta? O Google só remove a que viola a política dele. Discordar do cliente, ou achar a nota injusta, não basta.\n\nNeste carrossel, tudo da Central de Ajuda do Google: o que ele remove, o que não remove, como denunciar no seu Perfil da Empresa, quanto tempo leva e como contestar uma vez se negarem. No fim, o que o dono nunca pode fazer.\n\nQuando não dá para remover, a resposta educada ainda é lida pelo próximo cliente que pesquisar.\n\nQual avaliação mais te incomodou? Comente e salve para o dia em que chegar uma.\n\n#avaliacoesgoogle #perfilnogoogle #reputacaoonline #negociolocal #googlemeunegocio",
-    "imagens": [
-      "2026-11-10-avaliacao-injusta/slide-01.jpg",
-      "2026-11-10-avaliacao-injusta/slide-02.jpg",
-      "2026-11-10-avaliacao-injusta/slide-03.jpg",
-      "2026-11-10-avaliacao-injusta/slide-04.jpg",
-      "2026-11-10-avaliacao-injusta/slide-05.jpg",
-      "2026-11-10-avaliacao-injusta/slide-06.jpg",
-      "2026-11-10-avaliacao-injusta/slide-07.jpg",
-      "2026-11-10-avaliacao-injusta/slide-08.jpg",
-      "2026-11-10-avaliacao-injusta/slide-09.jpg",
-      "2026-11-10-avaliacao-injusta/slide-10.jpg",
-      "2026-11-10-avaliacao-injusta/slide-11.jpg"
-    ],
-    "ig_id": "17871170529659996",
-    "publicado_em": "2026-11-10T15:04:38.165Z"
-  },
-  {
-    "id": "2026-11-12-responder-avaliacao",
-    "quando": "2026-11-12T12:00:00-03:00",
-    "status": "agendado",
-    "legenda": "Quem lê a sua resposta a uma avaliação não é quem reclamou. É o próximo cliente que está decidindo se entra.\n\nPesquisas da BrightLocal nos EUA, em 2026: 89% dos consumidores esperam que o dono responda, e só 51% dos donos respondem. Um estudo de dois pesquisadores com hotéis no TripAdvisor viu que quem passou a responder ganhou, em média, 12% mais avaliações e 0,12 estrela de nota. Os autores atribuem isso a menos críticas infundadas, não a um serviço melhor.\n\nNo carrossel: os dados, o que o Google diz que você não precisa fazer (agradecer a todos, oferecer algo) e um quiz com três respostas, só uma boa.\n\nSalve e responda hoje a última avaliação que você recebeu. Comente \"responder\" quando fizer.\n\n#avaliacoesgoogle #perfilnogoogle #reputacaoonline #negociolocal #googlemeunegocio",
-    "imagens": [
-      "2026-11-12-responder-avaliacao/slide-01.jpg",
-      "2026-11-12-responder-avaliacao/slide-02.jpg",
-      "2026-11-12-responder-avaliacao/slide-03.jpg",
-      "2026-11-12-responder-avaliacao/slide-04.jpg",
-      "2026-11-12-responder-avaliacao/slide-05.jpg",
-      "2026-11-12-responder-avaliacao/slide-06.jpg",
-      "2026-11-12-responder-avaliacao/slide-07.jpg",
-      "2026-11-12-responder-avaliacao/slide-08.jpg",
-      "2026-11-12-responder-avaliacao/slide-09.jpg",
-      "2026-11-12-responder-avaliacao/slide-10.jpg"
-    ]
-  },
-  {
-    "id": "2026-11-13-case-zillow",
-    "quando": "2026-11-13T12:00:00-03:00",
-    "status": "agendado",
-    "legenda": "A Zillow, plataforma americana de anúncios de imóveis, comparou anúncios com tour 3D e sem tour. Em um comunicado de maio de 2022, disse que os anúncios com tour tiveram 81% mais visualizações e 53% mais salvamentos.\n\nÉ um dado da própria Zillow, e ela não informa o período medido. Em 2021, a mesma empresa tinha citado outro número, 32% mais salvamentos, com dados de 2020. Por isso o carrossel mostra o dado e também o que ele não prova.\n\nNo Brasil, o Viva Real permite filtrar a busca só por imóveis com tour virtual. Isso sugere que, para parte dos compradores, o tour já é critério de escolha.\n\nSalve para consultar depois e mande para uma imobiliária que você conhece.\n\n#imobiliaria #tourvirtual #tour360 #mercadoimobiliario #negociolocal",
-    "imagens": [
-      "2026-11-13-case-zillow/slide-01.jpg",
-      "2026-11-13-case-zillow/slide-02.jpg",
-      "2026-11-13-case-zillow/slide-03.jpg",
-      "2026-11-13-case-zillow/slide-04.jpg",
-      "2026-11-13-case-zillow/slide-05.jpg",
-      "2026-11-13-case-zillow/slide-06.jpg",
-      "2026-11-13-case-zillow/slide-07.jpg",
-      "2026-11-13-case-zillow/slide-08.jpg",
-      "2026-11-13-case-zillow/slide-09.jpg"
-    ]
-  },
-  {
-    "id": "2026-11-14-regras-perfil",
-    "quando": "2026-11-14T10:00:00-03:00",
-    "status": "agendado",
-    "legenda": "Uma palavra a mais no nome da sua empresa no Google pode pôr o perfil em risco. A ajuda oficial do Google diz que informação desnecessária no nome \"pode resultar na suspensão do perfil\".\n\nNeste carrossel, 8 regras da Central de Ajuda do Perfil da Empresa, com exemplo de errado e certo: nome sem horário e sem promoção, sem CAPS, escritório virtual, endereço de quem atende na casa do cliente, telefone e site, categoria, descrição e o que fazer quando o negócio muda.\n\nTodas dá para conferir hoje, no seu próprio perfil.\n\nSalve para conferir depois e comente a regra que mais te surpreendeu.\n\n#perfilnogoogle #googlemeunegocio #negociolocal #seolocal #googlemaps",
-    "imagens": [
-      "2026-11-14-regras-perfil/slide-01.jpg",
-      "2026-11-14-regras-perfil/slide-02.jpg",
-      "2026-11-14-regras-perfil/slide-03.jpg",
-      "2026-11-14-regras-perfil/slide-04.jpg",
-      "2026-11-14-regras-perfil/slide-05.jpg",
-      "2026-11-14-regras-perfil/slide-06.jpg",
-      "2026-11-14-regras-perfil/slide-07.jpg",
-      "2026-11-14-regras-perfil/slide-08.jpg",
-      "2026-11-14-regras-perfil/slide-09.jpg",
-      "2026-11-14-regras-perfil/slide-10.jpg",
-      "2026-11-14-regras-perfil/slide-11.jpg"
-    ]
-  },
-  {
-    "id": "2026-11-15-horario-especial",
-    "quando": "2026-11-15T10:00:00-03:00",
-    "status": "agendado",
-    "legenda": "Feriado chegando e o seu perfil no Google ainda mostra o horário de um dia comum? O cliente pesquisa antes de sair, e horário errado vira porta fechada.\n\nNeste carrossel, o que a ajuda oficial do Google diz sobre horário especial: até 6 dias seguidos, no máximo 24 horas por conjunto, o dia só aparece se for marcado como \"Aberto com horário normal\", e 7 dias ou mais viram \"temporariamente fechado\".\n\nDatas para conferir: 20/11 (Consciência Negra) e 27/11 (Black Friday).\n\nSalve para configurar hoje e mande para quem tem comércio.\n\n#googlemeunegocio #perfilnogoogle #negociolocal #seolocal #feriado",
-    "imagens": [
-      "2026-11-15-horario-especial/slide-01.jpg",
-      "2026-11-15-horario-especial/slide-02.jpg",
-      "2026-11-15-horario-especial/slide-03.jpg",
-      "2026-11-15-horario-especial/slide-04.jpg",
-      "2026-11-15-horario-especial/slide-05.jpg",
-      "2026-11-15-horario-especial/slide-06.jpg",
-      "2026-11-15-horario-especial/slide-07.jpg",
-      "2026-11-15-horario-especial/slide-08.jpg",
-      "2026-11-15-horario-especial/slide-09.jpg",
-      "2026-11-15-horario-especial/slide-10.jpg"
-    ]
-  },
-  {
-    "id": "2026-11-16-black-friday",
-    "quando": "2026-11-16T12:00:00-03:00",
-    "status": "agendado",
-    "legenda": "Foto nova no perfil do Google pode levar de 24 a 48 horas para aparecer, segundo a ajuda oficial. A Black Friday é dia 27/11.\n\nPesquisa do Google com a Offerwise, divulgada pelo Propmark e pelo Meio & Mensagem, mostra que 44% dos consumidores já tinham pesquisado preços e 48% tinham lista de compras. A disputa começa antes do dia.\n\nNeste carrossel: formato e tamanho das fotos, limite do vídeo, o que não pode entrar no nome e na descrição, e um checklist para fechar até 25/11.\n\nSalve e comente qual item você ainda não fez.\n\n#blackfriday #googlemeunegocio #perfilnogoogle #negociolocal #seolocal",
-    "imagens": [
-      "2026-11-16-black-friday/slide-01.jpg",
-      "2026-11-16-black-friday/slide-02.jpg",
-      "2026-11-16-black-friday/slide-03.jpg",
-      "2026-11-16-black-friday/slide-04.jpg",
-      "2026-11-16-black-friday/slide-05.jpg",
-      "2026-11-16-black-friday/slide-06.jpg",
-      "2026-11-16-black-friday/slide-07.jpg",
-      "2026-11-16-black-friday/slide-08.jpg",
-      "2026-11-16-black-friday/slide-09.jpg",
-      "2026-11-16-black-friday/slide-10.jpg"
-    ]
-  },
-  {
-    "id": "2026-11-11-chatgpt-business",
-    "quando": "2026-11-11T19:53:00-03:00",
-    "status": "publicado",
-    "legenda": "O ChatGPT agora tem perfil de empresa verificado, com selo azul. Em 10/11/2026, a OpenAI abriu em beta o \"Businesses in ChatGPT\": a empresa reivindica o perfil, atualiza informações e vê quantas vezes foi citada e quantos cliques o site recebeu.\n\nOs agentes que conversam com o cliente ainda são só para lojas e serviços online dos EUA. O Brasil não foi citado nas fontes que li, e o carrossel diz o que ainda é incerto.\n\nSalve para acompanhar e mande para quem tem negócio.\n\n#chatgpt #openai #inteligenciaartificial #negociolocal #googlemeunegocio",
-    "imagens": [
-      "2026-11-11-chatgpt-business/slide-01.jpg",
-      "2026-11-11-chatgpt-business/slide-02.jpg",
-      "2026-11-11-chatgpt-business/slide-03.jpg",
-      "2026-11-11-chatgpt-business/slide-04.jpg",
-      "2026-11-11-chatgpt-business/slide-05.jpg",
-      "2026-11-11-chatgpt-business/slide-06.jpg",
-      "2026-11-11-chatgpt-business/slide-07.jpg",
-      "2026-11-11-chatgpt-business/slide-08.jpg",
-      "2026-11-11-chatgpt-business/slide-09.jpg",
-      "2026-11-11-chatgpt-business/slide-10.jpg",
-      "2026-11-11-chatgpt-business/slide-11.jpg",
-      "2026-11-11-chatgpt-business/slide-12.jpg"
-    ],
-    "ig_id": "17950668552354749",
-    "publicado_em": "2026-11-11T23:01:35.733Z"
-  }
+    {
+        "id":  "2026-10-31-teste",
+        "quando":  "2026-10-31T03:28:05-03:00",
+        "status":  "publicado",
+        "legenda":  "Chegamos. Em breve, mais por aqui sobre como o seu negócio aparece antes da primeira visita.\n\n#intelles #googlemeunegocio #seolocal",
+        "imagens":  [
+                        "2026-10-31-teste/slide-01.jpg"
+                    ],
+        "ig_id":  "18106377506235986",
+        "publicado_em":  "2026-10-31T06:30:09.404Z"
+    },
+    {
+        "id":  "2026-10-31-feriado",
+        "quando":  "2026-10-31T10:00:00-03:00",
+        "status":  "publicado",
+        "legenda":  "Hoje, sábado, ainda dá tempo. Quem abre no feriado mas não avisou o Google deixa o cliente na dúvida.\n\nEm quatro passos você ajusta o horário de segunda, que é Finados, e deixa o perfil pronto para os próximos feriados também.\n\nSalve este post.\n\n#googlemeunegocio #negocioslocais #seolocal #feriado #pequenasempresas",
+        "imagens":  [
+                        "2026-10-31-feriado/slide-01.jpg",
+                        "2026-10-31-feriado/slide-02.jpg",
+                        "2026-10-31-feriado/slide-03.jpg",
+                        "2026-10-31-feriado/slide-04.jpg",
+                        "2026-10-31-feriado/slide-05.jpg",
+                        "2026-10-31-feriado/slide-06.jpg"
+                    ],
+        "ig_id":  "18188722348424609",
+        "publicado_em":  "2026-10-31T17:23:28.823Z"
+    },
+    {
+        "id":  "2026-10-31-feriado-v2",
+        "quando":  "2026-10-31T16:20:00-03:00",
+        "status":  "publicado",
+        "legenda":  "Hoje, sábado, ainda dá tempo. Quem abre no feriado mas não avisou o Google deixa o cliente na dúvida.\n\nEm quatro passos você ajusta o horário de segunda, que é Finados, e deixa o perfil pronto para os próximos feriados também.\n\nSalve este post.\n\n#googlemeunegocio #negocioslocais #seolocal #feriado #pequenasempresas",
+        "imagens":  [
+                        "2026-10-31-feriado-v2/slide-01.jpg",
+                        "2026-10-31-feriado-v2/slide-02.jpg",
+                        "2026-10-31-feriado-v2/slide-03.jpg",
+                        "2026-10-31-feriado-v2/slide-04.jpg",
+                        "2026-10-31-feriado-v2/slide-05.jpg",
+                        "2026-10-31-feriado-v2/slide-06.jpg"
+                    ],
+        "ig_id":  "18118896551000356",
+        "publicado_em":  "2026-10-31T19:27:03.980Z"
+    },
+    {
+        "id":  "2026-11-01-manifesto",
+        "quando":  "2026-11-01T10:00:00-03:00",
+        "status":  "publicado",
+        "legenda":  "A primeira impressão do seu negócio muitas vezes acontece na tela de alguém, antes da porta, enquanto você atende outra pessoa.\n\nÉ sobre isso que o @in.telles fala todo dia. Siga para ver como se faz.\n\n#negocioslocais #googlemeunegocio #primeiraimpressao #seolocal",
+        "imagens":  [
+                        "2026-11-01-manifesto/slide-01.jpg",
+                        "2026-11-01-manifesto/slide-02.jpg",
+                        "2026-11-01-manifesto/slide-03.jpg",
+                        "2026-11-01-manifesto/slide-04.jpg",
+                        "2026-11-01-manifesto/slide-05.jpg"
+                    ],
+        "ig_id":  "17906915139355797",
+        "publicado_em":  "2026-11-01T13:14:26.298Z"
+    },
+    {
+        "id":  "2026-11-02-atributos",
+        "quando":  "2026-11-02T12:00:00-03:00",
+        "status":  "publicado",
+        "legenda":  "Se o cliente tiver que ligar para saber se você aceita Pix, uma parte pode desistir antes.\n\nDê uma olhada nos atributos do seu perfil hoje e marque só o que for verdade. Salve este post e confira.\n\n#googlemeunegocio #negocioslocais #seolocal #atendimento",
+        "imagens":  [
+                        "2026-11-02-atributos/slide-01.jpg",
+                        "2026-11-02-atributos/slide-02.jpg",
+                        "2026-11-02-atributos/slide-03.jpg",
+                        "2026-11-02-atributos/slide-04.jpg",
+                        "2026-11-02-atributos/slide-05.jpg",
+                        "2026-11-02-atributos/slide-06.jpg"
+                    ],
+        "tentativas":  1,
+        "ultimo_erro":  "Media ID is not available",
+        "ig_id":  "18143766583613003",
+        "publicado_em":  "2026-11-02T19:17:20.256Z"
+    },
+    {
+        "id":  "2026-11-03-perfis-falsos",
+        "quando":  "2026-11-03T12:00:00-03:00",
+        "status":  "publicado",
+        "legenda":  "O Google está limpando o mapa. Em 2025, segundo o relatório de segurança do Maps, foram mais de 13 milhões de perfis falsos de empresas removidos.\n\nUm perfil de dono real e atualizado fica mais difícil de confundir com um suspeito. Confira o seu em dois passos e, se quiser ajuda, manda PERFIL no direct. O diagnóstico é gratuito.\n\n#googlemaps #googlemeunegocio #negocioslocais #seolocal #reputacao",
+        "imagens":  [
+                        "2026-11-03-perfis-falsos/slide-01.jpg",
+                        "2026-11-03-perfis-falsos/slide-02.jpg",
+                        "2026-11-03-perfis-falsos/slide-03.jpg",
+                        "2026-11-03-perfis-falsos/slide-04.jpg",
+                        "2026-11-03-perfis-falsos/slide-05.jpg",
+                        "2026-11-03-perfis-falsos/slide-06.jpg",
+                        "2026-11-03-perfis-falsos/slide-07.jpg"
+                    ],
+        "ig_id":  "17899958523394843",
+        "publicado_em":  "2026-11-03T15:01:16.888Z"
+    },
+    {
+        "id":  "2026-11-04-mito-avaliacao",
+        "quando":  "2026-11-04T12:00:00-03:00",
+        "status":  "publicado",
+        "legenda":  "Chegou uma avaliação ruim e a vontade é apagar. Só que o dono não apaga, só denuncia, e a remoção depende de a avaliação violar uma regra do Google.\n\nO que está na sua mão é a resposta, e ela é lida por quem pesquisa depois. Salve este post para esse dia.\n\n#googlemeunegocio #avaliacoes #negocioslocais #reputacao #seolocal",
+        "imagens":  [
+                        "2026-11-04-mito-avaliacao/slide-01.jpg",
+                        "2026-11-04-mito-avaliacao/slide-02.jpg",
+                        "2026-11-04-mito-avaliacao/slide-03.jpg",
+                        "2026-11-04-mito-avaliacao/slide-04.jpg",
+                        "2026-11-04-mito-avaliacao/slide-05.jpg",
+                        "2026-11-04-mito-avaliacao/slide-06.jpg"
+                    ],
+        "ig_id":  "18127844885485764",
+        "publicado_em":  "2026-11-04T15:01:57.783Z"
+    },
+    {
+        "id":  "2026-11-05-primeira-foto",
+        "quando":  "2026-11-05T12:00:00-03:00",
+        "status":  "publicado",
+        "legenda":  "Pesquisou o nome da sua empresa? A primeira foto é a vitrine que o cliente vê antes de entrar.\n\nQual é a sua: A, B ou C? Comenta aqui.\n\n#googlemeunegocio #negocioslocais #fotos #seolocal",
+        "imagens":  [
+                        "2026-11-05-primeira-foto/slide-01.jpg",
+                        "2026-11-05-primeira-foto/slide-02.jpg",
+                        "2026-11-05-primeira-foto/slide-03.jpg",
+                        "2026-11-05-primeira-foto/slide-04.jpg",
+                        "2026-11-05-primeira-foto/slide-05.jpg"
+                    ],
+        "ig_id":  "17985316116003234",
+        "publicado_em":  "2026-11-05T15:02:27.725Z"
+    },
+    {
+        "id":  "2026-11-06-black-friday",
+        "quando":  "2026-11-06T12:00:00-03:00",
+        "status":  "publicado",
+        "legenda":  "A Black Friday é dia 27 de novembro. Dá tempo de deixar o perfil pronto sem correria: fotos, horários e um post de oferta, uma semana para cada.\n\nManda PERFIL no direct e a gente olha o seu. O diagnóstico é gratuito.\n\n#blackfriday #googlemeunegocio #negocioslocais #seolocal #pequenasempresas",
+        "imagens":  [
+                        "2026-11-06-black-friday/slide-01.jpg",
+                        "2026-11-06-black-friday/slide-02.jpg",
+                        "2026-11-06-black-friday/slide-03.jpg",
+                        "2026-11-06-black-friday/slide-04.jpg",
+                        "2026-11-06-black-friday/slide-05.jpg",
+                        "2026-11-06-black-friday/slide-06.jpg"
+                    ],
+        "ig_id":  "18109848335252751",
+        "publicado_em":  "2026-11-06T15:01:20.554Z"
+    },
+    {
+        "id":  "2026-11-07-historinha",
+        "quando":  "2026-11-07T10:00:00-03:00",
+        "status":  "publicado",
+        "legenda":  "Duas fichas, uma pergunta. Quem respondeu antes ficou com a mesa.\n\nSalve este post para lembrar de conferir o seu perfil.\n\n#googlemeunegocio #negocioslocais #seolocal #restaurantes",
+        "imagens":  [
+                        "2026-11-07-historinha/slide-01.jpg",
+                        "2026-11-07-historinha/slide-02.jpg",
+                        "2026-11-07-historinha/slide-03.jpg",
+                        "2026-11-07-historinha/slide-04.jpg",
+                        "2026-11-07-historinha/slide-05.jpg",
+                        "2026-11-07-historinha/slide-06.jpg"
+                    ],
+        "ig_id":  "17967863120978869",
+        "publicado_em":  "2026-11-07T13:01:50.907Z"
+    },
+    {
+        "id":  "2026-11-08-roteiro-ficha",
+        "quando":  "2026-11-08T10:00:00-03:00",
+        "status":  "publicado",
+        "legenda":  "Antes de mexer em qualquer perfil, a gente mede tudo do mesmo jeito: nome, categoria e horário, fotos e avaliações. É um roteiro simples que você pode fazer hoje no seu perfil.\n\nSe quiser que a gente faça, manda PERFIL no direct. O diagnóstico é gratuito.\n\n#googlemeunegocio #negocioslocais #seolocal #diagnostico",
+        "imagens":  [
+                        "2026-11-08-roteiro-ficha/slide-01.jpg",
+                        "2026-11-08-roteiro-ficha/slide-02.jpg",
+                        "2026-11-08-roteiro-ficha/slide-03.jpg",
+                        "2026-11-08-roteiro-ficha/slide-04.jpg",
+                        "2026-11-08-roteiro-ficha/slide-05.jpg",
+                        "2026-11-08-roteiro-ficha/slide-06.jpg"
+                    ],
+        "ig_id":  "18012042305778015",
+        "publicado_em":  "2026-11-08T13:03:09.248Z"
+    },
+    {
+        "id":  "2026-11-09-case-dominos",
+        "quando":  "2026-11-09T13:48:49-03:00",
+        "status":  "publicado",
+        "legenda":  "Em 2009, a Domino\u0027s ouviu que a massa parecia papelão. Em vez de esconder, mostrou a crítica, refez a receita e contou o que mudou.\n\nNo 1º trimestre de 2010, as vendas nas mesmas lojas dos EUA subiram 14,3%, segundo o release de resultados da própria empresa. A Domino\u0027s atribuiu o resultado à pizza melhor e à honestidade em como contou isso aos consumidores.\n\nA lição para o seu negócio é pequena e serve hoje: cada avaliação negativa mostra o que o cliente repete. Mude uma coisa e responda dizendo o que mudou.\n\nQual crítica se repete no seu negócio? Comente aqui e salve para voltar depois.\n\n#reputacaoonline #avaliacoesgoogle #perfilnogoogle #negociolocal #marketingdigital",
+        "imagens":  [
+                        "2026-11-09-case-dominos/slide-01.jpg",
+                        "2026-11-09-case-dominos/slide-02.jpg",
+                        "2026-11-09-case-dominos/slide-03.jpg",
+                        "2026-11-09-case-dominos/slide-04.jpg",
+                        "2026-11-09-case-dominos/slide-05.jpg",
+                        "2026-11-09-case-dominos/slide-06.jpg",
+                        "2026-11-09-case-dominos/slide-07.jpg",
+                        "2026-11-09-case-dominos/slide-08.jpg",
+                        "2026-11-09-case-dominos/slide-09.jpg",
+                        "2026-11-09-case-dominos/slide-10.jpg"
+                    ],
+        "ig_id":  "18133171637492604",
+        "publicado_em":  "2026-11-09T17:01:26.211Z"
+    },
+    {
+        "id":  "2026-11-11-maps-conversa",
+        "quando":  "2026-11-11T12:00:00-03:00",
+        "status":  "publicado",
+        "legenda":  "O Google Maps agora conversa com o cliente. O Pergunte ao Maps, que usa o Gemini, foi anunciado no Brasil em junho de 2026 e está sendo liberado aos poucos.\n\nEm vez de digitar \"restaurante perto\", o cliente pergunta: \"qual tem ambiente tranquilo para uma reunião?\". O Google diz que consulta uma base com mais de 300 milhões de lugares, com avaliações e fotos de colaboradores.\n\nO que o Google não explicou é como escolhe quais negócios aparecem. O que ele diz, na ajuda oficial, é que a busca local pesa relevância, distância e destaque, e que não dá para pagar por uma posição melhor.\n\nNo carrossel: o que é, de onde vem a resposta, o dado dos EUA e o que conferir hoje no seu perfil.\n\nAbra o Pergunte ao Maps, pergunte por um negócio como o seu e comente o que apareceu.\n\n#googlemaps #perfilnogoogle #negociolocal #inteligenciaartificial #buscalocal",
+        "imagens":  [
+                        "2026-11-11-maps-conversa/slide-01.jpg",
+                        "2026-11-11-maps-conversa/slide-02.jpg",
+                        "2026-11-11-maps-conversa/slide-03.jpg",
+                        "2026-11-11-maps-conversa/slide-04.jpg",
+                        "2026-11-11-maps-conversa/slide-05.jpg",
+                        "2026-11-11-maps-conversa/slide-06.jpg",
+                        "2026-11-11-maps-conversa/slide-07.jpg",
+                        "2026-11-11-maps-conversa/slide-08.jpg",
+                        "2026-11-11-maps-conversa/slide-09.jpg",
+                        "2026-11-11-maps-conversa/slide-10.jpg",
+                        "2026-11-11-maps-conversa/slide-11.jpg"
+                    ],
+        "ig_id":  "17961739821016802",
+        "publicado_em":  "2026-11-11T15:01:38.664Z"
+    },
+    {
+        "id":  "2026-11-10-avaliacao-injusta",
+        "quando":  "2026-11-10T12:00:00-03:00",
+        "status":  "publicado",
+        "legenda":  "Recebeu uma avaliação que parece injusta? O Google só remove a que viola a política dele. Discordar do cliente, ou achar a nota injusta, não basta.\n\nNeste carrossel, tudo da Central de Ajuda do Google: o que ele remove, o que não remove, como denunciar no seu Perfil da Empresa, quanto tempo leva e como contestar uma vez se negarem. No fim, o que o dono nunca pode fazer.\n\nQuando não dá para remover, a resposta educada ainda é lida pelo próximo cliente que pesquisar.\n\nQual avaliação mais te incomodou? Comente e salve para o dia em que chegar uma.\n\n#avaliacoesgoogle #perfilnogoogle #reputacaoonline #negociolocal #googlemeunegocio",
+        "imagens":  [
+                        "2026-11-10-avaliacao-injusta/slide-01.jpg",
+                        "2026-11-10-avaliacao-injusta/slide-02.jpg",
+                        "2026-11-10-avaliacao-injusta/slide-03.jpg",
+                        "2026-11-10-avaliacao-injusta/slide-04.jpg",
+                        "2026-11-10-avaliacao-injusta/slide-05.jpg",
+                        "2026-11-10-avaliacao-injusta/slide-06.jpg",
+                        "2026-11-10-avaliacao-injusta/slide-07.jpg",
+                        "2026-11-10-avaliacao-injusta/slide-08.jpg",
+                        "2026-11-10-avaliacao-injusta/slide-09.jpg",
+                        "2026-11-10-avaliacao-injusta/slide-10.jpg",
+                        "2026-11-10-avaliacao-injusta/slide-11.jpg"
+                    ],
+        "ig_id":  "17871170529659996",
+        "publicado_em":  "2026-11-10T15:04:38.165Z"
+    },
+    {
+        "id":  "2026-11-12-responder-avaliacao",
+        "quando":  "2026-11-12T12:00:00-03:00",
+        "status":  "agendado",
+        "legenda":  "Quem lê a sua resposta a uma avaliação não é quem reclamou. É o próximo cliente que está decidindo se entra.\n\nPesquisas da BrightLocal nos EUA, em 2026: 89% dos consumidores esperam que o dono responda, e só 51% dos donos respondem. Um estudo de dois pesquisadores com hotéis no TripAdvisor viu que quem passou a responder ganhou, em média, 12% mais avaliações e 0,12 estrela de nota. Os autores atribuem isso a menos críticas infundadas, não a um serviço melhor.\n\nNo carrossel: os dados, o que o Google diz que você não precisa fazer (agradecer a todos, oferecer algo) e um quiz com três respostas, só uma boa.\n\nSalve e responda hoje a última avaliação que você recebeu. Comente \"responder\" quando fizer.\n\n#avaliacoesgoogle #perfilnogoogle #reputacaoonline #negociolocal #googlemeunegocio",
+        "imagens":  [
+                        "2026-11-12-responder-avaliacao/slide-01.jpg",
+                        "2026-11-12-responder-avaliacao/slide-02.jpg",
+                        "2026-11-12-responder-avaliacao/slide-03.jpg",
+                        "2026-11-12-responder-avaliacao/slide-04.jpg",
+                        "2026-11-12-responder-avaliacao/slide-05.jpg",
+                        "2026-11-12-responder-avaliacao/slide-06.jpg",
+                        "2026-11-12-responder-avaliacao/slide-07.jpg",
+                        "2026-11-12-responder-avaliacao/slide-08.jpg",
+                        "2026-11-12-responder-avaliacao/slide-09.jpg",
+                        "2026-11-12-responder-avaliacao/slide-10.jpg"
+                    ]
+    },
+    {
+        "id":  "2026-11-13-case-zillow",
+        "quando":  "2026-11-13T12:00:00-03:00",
+        "status":  "agendado",
+        "legenda":  "A Zillow, plataforma americana de anúncios de imóveis, comparou anúncios com tour 3D e sem tour. Em um comunicado de maio de 2022, disse que os anúncios com tour tiveram 81% mais visualizações e 53% mais salvamentos.\n\nÉ um dado da própria Zillow, e ela não informa o período medido. Em 2021, a mesma empresa tinha citado outro número, 32% mais salvamentos, com dados de 2020. Por isso o carrossel mostra o dado e também o que ele não prova.\n\nNo Brasil, o Viva Real permite filtrar a busca só por imóveis com tour virtual. Isso sugere que, para parte dos compradores, o tour já é critério de escolha.\n\nSalve para consultar depois e mande para uma imobiliária que você conhece.\n\n#imobiliaria #tourvirtual #tour360 #mercadoimobiliario #negociolocal",
+        "imagens":  [
+                        "2026-11-13-case-zillow/slide-01.jpg",
+                        "2026-11-13-case-zillow/slide-02.jpg",
+                        "2026-11-13-case-zillow/slide-03.jpg",
+                        "2026-11-13-case-zillow/slide-04.jpg",
+                        "2026-11-13-case-zillow/slide-05.jpg",
+                        "2026-11-13-case-zillow/slide-06.jpg",
+                        "2026-11-13-case-zillow/slide-07.jpg",
+                        "2026-11-13-case-zillow/slide-08.jpg",
+                        "2026-11-13-case-zillow/slide-09.jpg"
+                    ]
+    },
+    {
+        "id":  "2026-11-14-regras-perfil",
+        "quando":  "2026-11-14T10:00:00-03:00",
+        "status":  "agendado",
+        "legenda":  "Uma palavra a mais no nome da sua empresa no Google pode pôr o perfil em risco. A ajuda oficial do Google diz que informação desnecessária no nome \"pode resultar na suspensão do perfil\".\n\nNeste carrossel, 8 regras da Central de Ajuda do Perfil da Empresa, com exemplo de errado e certo: nome sem horário e sem promoção, sem CAPS, escritório virtual, endereço de quem atende na casa do cliente, telefone e site, categoria, descrição e o que fazer quando o negócio muda.\n\nTodas dá para conferir hoje, no seu próprio perfil.\n\nSalve para conferir depois e comente a regra que mais te surpreendeu.\n\n#perfilnogoogle #googlemeunegocio #negociolocal #seolocal #googlemaps",
+        "imagens":  [
+                        "2026-11-14-regras-perfil/slide-01.jpg",
+                        "2026-11-14-regras-perfil/slide-02.jpg",
+                        "2026-11-14-regras-perfil/slide-03.jpg",
+                        "2026-11-14-regras-perfil/slide-04.jpg",
+                        "2026-11-14-regras-perfil/slide-05.jpg",
+                        "2026-11-14-regras-perfil/slide-06.jpg",
+                        "2026-11-14-regras-perfil/slide-07.jpg",
+                        "2026-11-14-regras-perfil/slide-08.jpg",
+                        "2026-11-14-regras-perfil/slide-09.jpg",
+                        "2026-11-14-regras-perfil/slide-10.jpg",
+                        "2026-11-14-regras-perfil/slide-11.jpg"
+                    ]
+    },
+    {
+        "id":  "2026-11-15-horario-especial",
+        "quando":  "2026-11-15T10:00:00-03:00",
+        "status":  "agendado",
+        "legenda":  "Feriado chegando e o seu perfil no Google ainda mostra o horário de um dia comum? O cliente pesquisa antes de sair, e horário errado vira porta fechada.\n\nNeste carrossel, o que a ajuda oficial do Google diz sobre horário especial: até 6 dias seguidos, no máximo 24 horas por conjunto, o dia só aparece se for marcado como \"Aberto com horário normal\", e 7 dias ou mais viram \"temporariamente fechado\".\n\nDatas para conferir: 20/11 (Consciência Negra) e 27/11 (Black Friday).\n\nSalve para configurar hoje e mande para quem tem comércio.\n\n#googlemeunegocio #perfilnogoogle #negociolocal #seolocal #feriado",
+        "imagens":  [
+                        "2026-11-15-horario-especial/slide-01.jpg",
+                        "2026-11-15-horario-especial/slide-02.jpg",
+                        "2026-11-15-horario-especial/slide-03.jpg",
+                        "2026-11-15-horario-especial/slide-04.jpg",
+                        "2026-11-15-horario-especial/slide-05.jpg",
+                        "2026-11-15-horario-especial/slide-06.jpg",
+                        "2026-11-15-horario-especial/slide-07.jpg",
+                        "2026-11-15-horario-especial/slide-08.jpg",
+                        "2026-11-15-horario-especial/slide-09.jpg",
+                        "2026-11-15-horario-especial/slide-10.jpg"
+                    ]
+    },
+    {
+        "id":  "2026-11-16-black-friday",
+        "quando":  "2026-11-16T12:00:00-03:00",
+        "status":  "agendado",
+        "legenda":  "Foto nova no perfil do Google pode levar de 24 a 48 horas para aparecer, segundo a ajuda oficial. A Black Friday é dia 27/11.\n\nPesquisa do Google com a Offerwise, divulgada pelo Propmark e pelo Meio \u0026 Mensagem, mostra que 44% dos consumidores já tinham pesquisado preços e 48% tinham lista de compras. A disputa começa antes do dia.\n\nNeste carrossel: formato e tamanho das fotos, limite do vídeo, o que não pode entrar no nome e na descrição, e um checklist para fechar até 25/11.\n\nSalve e comente qual item você ainda não fez.\n\n#blackfriday #googlemeunegocio #perfilnogoogle #negociolocal #seolocal",
+        "imagens":  [
+                        "2026-11-16-black-friday/slide-01.jpg",
+                        "2026-11-16-black-friday/slide-02.jpg",
+                        "2026-11-16-black-friday/slide-03.jpg",
+                        "2026-11-16-black-friday/slide-04.jpg",
+                        "2026-11-16-black-friday/slide-05.jpg",
+                        "2026-11-16-black-friday/slide-06.jpg",
+                        "2026-11-16-black-friday/slide-07.jpg",
+                        "2026-11-16-black-friday/slide-08.jpg",
+                        "2026-11-16-black-friday/slide-09.jpg",
+                        "2026-11-16-black-friday/slide-10.jpg"
+                    ]
+    },
+    {
+        "id":  "2026-11-11-chatgpt-business",
+        "quando":  "2026-11-11T19:53:00-03:00",
+        "status":  "publicado",
+        "legenda":  "O ChatGPT agora tem perfil de empresa verificado, com selo azul. Em 10/11/2026, a OpenAI abriu em beta o \"Businesses in ChatGPT\": a empresa reivindica o perfil, atualiza informações e vê quantas vezes foi citada e quantos cliques o site recebeu.\n\nOs agentes que conversam com o cliente ainda são só para lojas e serviços online dos EUA. O Brasil não foi citado nas fontes que li, e o carrossel diz o que ainda é incerto.\n\nSalve para acompanhar e mande para quem tem negócio.\n\n#chatgpt #openai #inteligenciaartificial #negociolocal #googlemeunegocio",
+        "imagens":  [
+                        "2026-11-11-chatgpt-business/slide-01.jpg",
+                        "2026-11-11-chatgpt-business/slide-02.jpg",
+                        "2026-11-11-chatgpt-business/slide-03.jpg",
+                        "2026-11-11-chatgpt-business/slide-04.jpg",
+                        "2026-11-11-chatgpt-business/slide-05.jpg",
+                        "2026-11-11-chatgpt-business/slide-06.jpg",
+                        "2026-11-11-chatgpt-business/slide-07.jpg",
+                        "2026-11-11-chatgpt-business/slide-08.jpg",
+                        "2026-11-11-chatgpt-business/slide-09.jpg",
+                        "2026-11-11-chatgpt-business/slide-10.jpg",
+                        "2026-11-11-chatgpt-business/slide-11.jpg",
+                        "2026-11-11-chatgpt-business/slide-12.jpg"
+                    ],
+        "ig_id":  "17950668552354749",
+        "publicado_em":  "2026-11-11T23:01:35.733Z"
+    },
+    {
+        "id":  "2026-11-11-chatgpt-business-v2",
+        "quando":  "2026-11-11T20:30:03-03:00",
+        "status":  "agendado",
+        "legenda":  "O ChatGPT agora tem perfil de empresa verificado, com selo azul. Em 10/11/2026, a OpenAI abriu em beta o \"Businesses in ChatGPT\": a empresa reivindica o perfil, atualiza informações e vê quantas vezes foi citada e quantos cliques o site recebeu.\n\nOs agentes que conversam com o cliente ainda são só para lojas e serviços online dos EUA. O Brasil não foi citado nas fontes que li, e o carrossel diz o que ainda é incerto.\n\nComente CHAT que eu envio o link da novidade no seu direct.\n\n#chatgpt #openai #inteligenciaartificial #negociolocal #googlemeunegocio",
+        "imagens":  [
+                        "2026-11-11-chatgpt-business-v2/slide-01.jpg",
+                        "2026-11-11-chatgpt-business-v2/slide-02.jpg",
+                        "2026-11-11-chatgpt-business-v2/slide-03.jpg",
+                        "2026-11-11-chatgpt-business-v2/slide-04.jpg",
+                        "2026-11-11-chatgpt-business-v2/slide-05.jpg",
+                        "2026-11-11-chatgpt-business-v2/slide-06.jpg",
+                        "2026-11-11-chatgpt-business-v2/slide-07.jpg",
+                        "2026-11-11-chatgpt-business-v2/slide-08.jpg",
+                        "2026-11-11-chatgpt-business-v2/slide-09.jpg",
+                        "2026-11-11-chatgpt-business-v2/slide-10.jpg",
+                        "2026-11-11-chatgpt-business-v2/slide-11.jpg",
+                        "2026-11-11-chatgpt-business-v2/slide-12.jpg"
+                    ]
+    }
 ]
