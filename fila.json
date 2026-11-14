@@ -275,7 +275,7 @@
   {
     "id": "2026-11-14-regras-perfil",
     "quando": "2026-11-14T10:00:00-03:00",
-    "status": "agendado",
+    "status": "publicado",
     "legenda": "Uma palavra a mais no nome da sua empresa no Google pode pôr o perfil em risco. A ajuda oficial do Google diz que informação desnecessária no nome \"pode resultar na suspensão do perfil\".\n\nNeste carrossel, 8 regras da Central de Ajuda do Perfil da Empresa, com exemplo de errado e certo: nome sem horário e sem promoção, sem CAPS, escritório virtual, endereço de quem atende na casa do cliente, telefone e site, categoria, descrição e o que fazer quando o negócio muda.\n\nTodas dá para conferir hoje, no seu próprio perfil.\n\nSalve para conferir depois e comente a regra que mais te surpreendeu.\n\n#perfilnogoogle #googlemeunegocio #negociolocal #seolocal #googlemaps",
     "imagens": [
       "2026-11-14-regras-perfil/slide-01.jpg",
@@ -289,7 +289,9 @@
       "2026-11-14-regras-perfil/slide-09.jpg",
       "2026-11-14-regras-perfil/slide-10.jpg",
       "2026-11-14-regras-perfil/slide-11.jpg"
-    ]
+    ],
+    "ig_id": "18108403229369952",
+    "publicado_em": "2026-11-14T13:03:41.775Z"
   },
   {
     "id": "2026-11-15-horario-especial",
